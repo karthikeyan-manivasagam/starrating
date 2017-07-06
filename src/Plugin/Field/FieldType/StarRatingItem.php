@@ -21,7 +21,7 @@ use Drupal\Core\Form\FormStateInterface;
  */
 class StarRatingItem extends FieldItemBase {
 
-  const DEFAULT_MAX_RATING_VALUE =  5;
+  const DEFAULT_MAX_RATING_VALUE =  10;
   
   /**
  * {@inheritdoc}
