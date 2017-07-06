@@ -1,0 +1,5 @@
+name: 'Starrating'
+description: 'Provides star rating field type and formatter'
+type: module
+core: 8.x
+
